@@ -1,0 +1,23 @@
+{
+  "name": "googleformjs",
+  "version": "1.0.0",
+  "description": "Podcast App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmytro-husarov/Google-Form-JS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Dmytro <dmitry.hussarov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmytro-husarov/Google-Form-JS/issues"
+  },
+  "homepage": "https://github.com/dmytro-husarov/Google-Form-JS#readme"
+}
